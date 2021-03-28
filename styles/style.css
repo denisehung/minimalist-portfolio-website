@@ -912,6 +912,10 @@ textarea {
     margin-bottom: 16px;
   }
 
+  .get-in-touch {
+    border-top: 0;
+  }
+
   /* header */
 
   .menu-icon {
