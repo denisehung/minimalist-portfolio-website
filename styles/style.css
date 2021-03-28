@@ -222,6 +222,10 @@ body {
   align-self: center;
 }
 
+.contact__button-link {
+  margin: 0 auto;
+}
+
 .button_type_secondary {
   background: none;
   border: 1px solid #33323d;
@@ -750,6 +754,7 @@ textarea {
   }
 
   .about__image-mobile {
+    width: 100%;
     display: block;
   }
 
