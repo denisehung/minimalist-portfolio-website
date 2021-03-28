@@ -5,6 +5,11 @@ button:focus {
   outline: none;
 }
 
+input[type="submit"] {
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+
 body {
   background-color: #fafafa;
 }
@@ -227,9 +232,6 @@ body {
 }
 
 .button_type_secondary {
-  -webkit-appearance: none;
-  -webkit-border-radius: 0;
-  border-radius: 0;
   background: none;
   border: 1px solid #33323d;
   background-color: #fafafa;
