@@ -227,9 +227,11 @@ body {
 }
 
 .button_type_secondary {
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
   background: none;
   border: 1px solid #33323d;
-  border-radius: 0;
   background-color: #fafafa;
   padding: 17px 35px;
   font-family: "Public Sans", sans-serif;
