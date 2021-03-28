@@ -620,6 +620,11 @@ textarea {
     margin-left: 69px;
   }
 
+  .contact {
+    margin-top: 80px;
+    margin-bottom: 96px;
+  }
+
   .contact__line {
     width: 15%;
   }
@@ -836,6 +841,8 @@ textarea {
 
   .contact {
     flex-direction: column;
+    margin-top: 64px;
+    margin-bottom: 80px;
   }
 
   .contact__text {
